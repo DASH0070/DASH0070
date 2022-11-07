@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DASH0070
+- 👋 Hi, I’m Shivansh Tyagi @DASH0070
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Nuxt JS
 - 💞️ I’m looking to collaborate on some Projects
